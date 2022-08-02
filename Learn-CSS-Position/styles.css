@@ -1,11 +1,20 @@
 .parent {
+    padding: 5px;
+    background-color: #00aaff;
 }
 
 .child-one {
+    background-color: aqua;
 }
 
 .child-two {
+    background-color: blueviolet;
 }
 
 .child-three {
+    background-color: chocolate;
+}
+
+.child {
+    padding: 5px;
 }
